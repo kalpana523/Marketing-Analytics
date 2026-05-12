@@ -44,12 +44,6 @@ NumPy: Statistical operations and synthetic data generation.
 
 To run this project locally, follow these steps:
 
-Clone the repository
-
-git clone [https://github.com/asmit124/Marketing-Analytics.git](https://github.com/asmit124/Marketing-Analytics.git)
-cd Marketing-Analytics
-
-
 Install dependencies
 
 pip install -r requirements.txt
