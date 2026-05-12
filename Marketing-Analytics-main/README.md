@@ -2,8 +2,8 @@
 
 A full-stack data analytics project that simulates, cleans, visualizes, and automates reporting for multi-channel marketing campaigns. Built with Python and Streamlit.
 
-👉 Live Link ->https://marketing-analytics-tyzrf7wtuxspzrhupx2fhd.streamlit.app/
-
+👉 Live Link ->[https://marketing-analytics-tyzrf7wtuxspzrhupx2fhd.streamlit.app/
+](https://marketing-analytics-523.streamlit.app/)
 📖 Project Overview
 
 This application serves as a comprehensive tool for marketing data analysis. It addresses the common challenge of fragmented campaign data by providing a unified interface to:
@@ -43,6 +43,10 @@ NumPy: Statistical operations and synthetic data generation.
 ⚙️ Installation & Setup
 
 To run this project locally, follow these steps:
+
+Clone this repository:
+git clone [https://github.com/kalpana523/Marketing-Analytics](https://github.com/kalpana523/Marketing-Analytics.git)
+cd marketing-analytics
 
 Install dependencies
 
